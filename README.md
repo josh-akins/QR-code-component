@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I leanrt more about flex properties while trying to center my card within the body element, I gained more knowledge on display positions properties while trying to reposition my footer to the bottom position
+I learnt more about flex properties while trying to center my card within the body element, I gained more knowledge on display positions properties while trying to reposition my footer to the bottom position
 
 
 ### Continued development
