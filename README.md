@@ -56,5 +56,3 @@ I used AI tools like Google AI search result to get detailed explanation on code
 
 - Website - [Josh Akins](https://www.your-site.com)
 - Frontend Mentor - [@josh-akins](https://wwww.frontendmentor.io/profile/josh-akins)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
