@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/josh-akins/QR-code-component
+- Live Site URL: qr-code-component-flax-three.vercel.app
 
 
 ### Built with
@@ -54,5 +54,5 @@ I used AI tools like Google AI search result to get detailed explanation on code
 
 ## Author
 
-- Website - [Josh Akins](https://www.your-site.com)
+- Website - [Josh Akins](qr-code-component-flax-three.vercel.app)
 - Frontend Mentor - [@josh-akins](https://wwww.frontendmentor.io/profile/josh-akins)
